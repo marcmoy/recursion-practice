@@ -1,3 +1,3 @@
 # Recursion Practice
 
-Exercises completed in Ruby.
+Exercises completed in Ruby
